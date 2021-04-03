@@ -1,2 +1,2 @@
 # Python-GUI-Tkinter
-A GUI application using Tkinter framework in python
+Desktop Application: CryptoCurrency Portfolio Manager using Tkinter python
